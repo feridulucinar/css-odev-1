@@ -4,14 +4,14 @@ patika kapsamında css eğitimi sırasında verilen ödev
 
 Bu repo [Patika](https://www.patika.dev) Front-End Eğitimi kapsamında oluşturulmuştur. İçeriğinde patika css eğitimi sırasında yapılan cross motor temalı bir web site vardır. İçerisinde bir adet README dosyası, 3 adet html dosyası, 1 adet images klasörü ve 3 adet css dosyası bulunmaktadır.
 
-[github image](https://www.hizliresim.com/605tdt8)
+[github image](https://www.hizliresim.com/fpbrden)
 
 ## Installation
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```bash
-git clone https://github.com/feridulucinar/Dessert_Recipe.git
+git clone https://github.com/feridulucinar/css-odev-1.git
 ```
 
 ## Usage
