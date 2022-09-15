@@ -1,0 +1,79 @@
+@import "urunlerimiz.css";
+@import "hakkimizda.css";
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.container{
+    height: 100vh;
+    width: 100%;
+    
+}
+
+.navbar{
+    width: 88%;
+    margin: auto;
+    padding: 15px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    width: 140px;
+    cursor: pointer;
+}
+
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 15px;
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+.section{
+    width: 100%;
+    position: absolute;
+    top: 30%;
+}
+
+.left-col{
+    float: left;
+    margin-left: 6%;
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+
+}
+
+.left-col p{
+    font-size: 30px;
+    color: black;
+    line-height: 35px;
+    float: left;
+
+}
+
+.right-col{
+    float: right;
+    margin-right: 3%;    
+    display: flex;  
+    align-items: center;  
+}
+
+.right-col h1{
+    font-size: 50px;
+    color: black;
+    font-weight: 400;    
+}
+
+
+
+

@@ -1,0 +1,61 @@
+.products{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    background-color: black;
+    width: 270px;
+    
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.card-image{    
+    height: 170px;
+    margin-bottom: 15px;
+    background-size: cover;
+    border-radius: 15px 15px 0 0;
+}
+
+.img-1{
+    background-image: url(img/img-1.jpg);
+}
+
+.img-2{
+    background-image: url(img/img-2.jpg);
+}
+
+.img-3{
+    background-image: url(img/img-3.jpg);
+}
+
+.img-4{
+    background-image: url(img/img-4.jpg);
+}
+
+.card h2{
+    color: white;
+    padding: 10px;
+    
+    
+}
+
+.card p{
+    color: white;
+    padding: 10px;
+}
+
+.card a{
+    background-color: white;
+    color: black;
+    padding: 15px 20px;
+    display: block;
+    text-align: center;
+    margin: 20px 50px;    
+}
+
+

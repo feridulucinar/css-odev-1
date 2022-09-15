@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;    
+}
+
+.section2{
+    width: 100%;
+    min-height: 75vh;
+    background-color: #ddd;
+}
+.about{
+    width: 80%;
+    display: block;
+    margin: auto;
+    padding-top: 50px;
+}
+
+.content-section{
+    float: left;
+    width: 55%;
+}
+
+.image-section{
+    float: right;
+    width: 40%;
+}
+
+.image-section img{
+    width: 100%;
+    height: auto;
+}
